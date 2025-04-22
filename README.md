@@ -3,3 +3,4 @@ This project predicts online course completion using machine learning. It analyz
 Accuracy: 0.35
 Precision: 0.50
 Recall: 0.31
+![Screenshot 2025-04-22 105620](https://github.com/user-attachments/assets/313bc31b-0dd2-4ca1-b41f-3ddb05892f83)
